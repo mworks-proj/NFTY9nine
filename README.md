@@ -1,12 +1,12 @@
-# NFT Marketplace V3
+# NFTY 9Nine Marketplace
 
-Create an NFT marketplace on top of your NFT collection on **any** EVM-compatible blockchain.
+Buy & Sale NFT collections on **any** EVM-compatible blockchain.
 
 ## Features
 
 - View all NFTs from your collection and their status on the marketplace on the [buy](/pages/buy.tsx) page.
 
-- Select which NFT from your wallet to sell for either a **direct listing** or **english auction** on the marketplace on the [sell](/pages/sell.tsx) page.
+- Sell your NFTY collection for either a **direct listing** or **english auction** on the marketplace on the [sell](/pages/sell.tsx) page.
 
 - View all NFTs a user owns from your collection on the [profile](/pages/profile/%5Baddress%5D.tsx) pages.
 
@@ -16,19 +16,10 @@ Create an NFT marketplace on top of your NFT collection on **any** EVM-compatibl
 
 <br/>
 
-## Using this template
 
-1. Deploy a [Marketplace V3](https://thirdweb.com/thirdweb.eth/MarketplaceV3) contract
-2. Clone this repository using the [CLI](https://portal.thirdweb.com/cli)
-3. Plug your contract addresses and chain in the [contractAddresses.ts](/const/contractAddresses.ts) file.
+### Raise funds for your Race Team, Travel League, Booster Club or Special Event
 
-<br/>
 
-### Deploy the Marketplace V3 contract
-
-Head to the [MarketplaceV3](https://thirdweb.com/thirdweb.eth/MarketplaceV3) contract page on the thirdweb dashboard.
-
-Deploy the marketplace to the same network as your NFT collection.
 
 <br/>
 
