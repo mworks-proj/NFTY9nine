@@ -32,44 +32,17 @@ Deploy the marketplace to the same network as your NFT collection.
 
 <br/>
 
-### Clone this repository
+### Download MetaMask or Setup Coinbase Account/ Wallet
 
-Clone a copy of this repository and install the dependencies using the [thirdweb CLI](https://portal.thirdweb.com/cli):
+Meta-Mask [https://metamask.io/download/] 
 
-```bash
-npx thirdweb create --template marketplace-v3
-```
+Coinbase Account [https://tinyurl.com/coinbasew3]
 
-_Note: This requires [Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) and [Git](https://git-scm.com/downloads). [Yarn](https://classic.yarnpkg.com/en/docs/install/#mac-stable) is also recommended._
-
-<br/>
 
 ### Add your contract addresses
 
-In the [contractAddresses.ts](/const/contractAddresses.ts) file, add your contract addresses and chain.
 
-If you haven't already, import your smart contracts into the [thirdweb dashboard](https://thirdweb.com/dashboard).
-
-```ts
-/** Replace the values below with the addresses of your smart contracts */
-
-// 1. Set up the network your smart contracts are deployed to.
-// First, import the chain from the package, then set the NETWORK variable to the chain.
-import { Mumbai } from "@thirdweb-dev/chains";
-export const NETWORK = Mumbai;
-
-// 2. The address of the marketplace V3 smart contract.
-// Deploy your own: https://thirdweb.com/thirdweb.eth/MarketplaceV3
-export const MARKETPLACE_ADDRESS = "";
-
-// 3. The address of your NFT collection smart contract.
-export const NFT_COLLECTION_ADDRESS = "";
-
-// (Optional) Set up the URL of where users can view transactions on
-// For example, below, we use Mumbai.polygonscan to view transactions on the Mumbai testnet.
-export const ETHERSCAN_URL = "https://mumbai.polygonscan.com";
-```
 
 ## Join our Discord!
 
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
+For any questions, suggestions, join our discord at [https://discord.gg/](https://discord.gg/).
