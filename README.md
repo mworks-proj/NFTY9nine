@@ -27,7 +27,7 @@ Here's a brief overview of some significant packages and libraries we use:
 - **React Use Web3**: For interacting with the Ethereum blockchain `react-use-web3` is used for this purpose.
 - **Ethers**: For Ethereum blockchain interactions `ethers` is used for this purpose.   
 - **Next.js Progress Bar**: We use `nextjs-progressbar` to provide visual feedback during route changes.
-- **React**: We use `react` for building the frontend of the application.React is a JavaScript library for building user interfaces and in this project we reference react-'components' by integrating react we can build reusable components and manage the state of the application. If you have errors realting to react you can install react.
+- **React**: We use `react` for building the frontend of the application. React is a JavaScript library for building user interfaces and in this project we reference react-'components' by integrating react we can build reusable components and manage the state of the application. If you have errors realting to react you can install react.
 
 
 ## Project Structure
