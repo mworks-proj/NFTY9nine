@@ -95,3 +95,7 @@ Here's a brief overview of some significant packages and libraries we use:
 
 With these steps, you should have the application running locally and be ready for development and collaboration. For any issues, consult the 'Prerequisites' section to ensure all requirements are met.
 
+
+### Support Our Project
+
+If you find this project helpful or valuable, please consider giving it a ⭐ on GitHub. You can also check out the primary maintainer's profile: [mworks-proj](https://github.com/mworks-proj). Your support is greatly appreciated!
